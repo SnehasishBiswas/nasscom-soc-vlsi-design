@@ -1,5 +1,5 @@
 # nasscom-soc-vlsi-design
->> Day1 lab 
+## Day1 lab 
  1. Run 'picorv32a' design synthesis using Openlane flow and generate necessary outputs. Screenshots of running each commands:
   cd Desktop/work/tools/openlane_working-die/openlane
 
