@@ -1,19 +1,19 @@
 # nasscom-soc-vlsi-design
 ## Day1 lab 
  1. Run 'picorv32a' design synthesis using Openlane flow and generate necessary outputs. Screenshots of running each commands:
-  cd Desktop/work/tools/openlane_working-die/openlane
+  #cd Desktop/work/tools/openlane_working-die/openlane
 
-  docker
+  #docker
 
- ./flow.tcl -interactive
+ #./flow.tcl -interactive
  
  package require openlane
 
- prep -design picorv32a
+ #prep -design picorv32a
 ![openlane start](https://github.com/user-attachments/assets/ec9a304d-e6a8-4e25-bf4a-bc78c9a2c244)
 
 
-run_synthesis
+#run_synthesis
 ![run](https://github.com/user-attachments/assets/d520d62e-40e3-4f0c-b14d-4c2bbb350c1d)
 
 2. Calculate the flip-flop ratio.
