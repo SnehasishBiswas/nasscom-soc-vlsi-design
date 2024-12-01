@@ -1,11 +1,11 @@
 # nasscom-soc-vlsi-design
-> Day1 lab 
-1.  Run 'picorv32a' design synthesis using Openlane flow and generate necessary outputs. Screenshots of running each commands
+>> Day1 lab 
+ 1. Run 'picorv32a' design synthesis using Openlane flow and generate necessary outputs. Screenshots of running each commands:
   cd Desktop/work/tools/openlane_working-die/openlane
 
   docker
-.
-/flow.tcl -interactive
+
+ ./flow.tcl -interactive
  
  package require openlane
 
@@ -21,8 +21,11 @@ run_synthesis
 ![Screenshot from 2024-12-01 22-31-34](https://github.com/user-attachments/assets/0bd629c8-dd21-4af2-bb20-b4bfc5d379a5)
 
 Calculation of Flip Flop ratio : 
+
 number of D flip Flop = 1613 total number of cells = 14876
+
 Calculating Flip Flop ratio = no. of D-ff / total cells 
+
 FFR = 1613/14876 = 0.108429685
 
 
