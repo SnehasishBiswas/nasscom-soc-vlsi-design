@@ -75,16 +75,16 @@ Command run to exit from the current terminal
 ## Section 3 - Design libary cell usign Magic Layout and ngspice 
 
 Theory
-Implementation
+1.Implementation
 Section 3 tasks:-
-Clone custom inverter standard cell design from github repository: Standard cell design and characterization using OpenLANE flow.
-Load the custom inverter layout in magic and explore.
-Spice extraction of inverter in magic.
-Editing the spice model file for analysis through simulation.
-Post-layout ngspice simulations.
-Find problem in the DRC section of the old magic tech file for the skywater process and fix them.
-Section 3 - Tasks 1 to 5 files, reports and logs can be found in the following folder:
-Section 3 - Tasks 1 to 5 (vsdstdcelldesign)
+2.Clone custom inverter standard cell design from github repository: Standard cell design and characterization using OpenLANE flow.
+3.Load the custom inverter layout in magic and explore.
+4.Spice extraction of inverter in magic.
+5.Editing the spice model file for analysis through simulation.
+6.Post-layout ngspice simulations.
+7.Find problem in the DRC section of the old magic tech file for the skywater process and fix them.
+8.Section 3 - Tasks 1 to 5 files, reports and logs can be found in the following folder:
+9.Section 3 - Tasks 1 to 5 (vsdstdcelldesign)
 
 Section 3 - Task 6 files, reports and logs can be found in the following folder:
 Section 3 - Task 6 (drc_tests)
